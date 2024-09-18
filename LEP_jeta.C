@@ -7,7 +7,7 @@
       pad1->cd(); // pad1 becomes the current pad
   //  pad1->SetLogy();
   //  gPad->SetLogy();
-  
+  //a
        a->Draw();               // Draw h1
        b->Draw("same");c->Draw("same");
        TLegend *legend66666 = new TLegend(0.67,0.7,0.89,0.88);
